@@ -1,0 +1,27 @@
+ *{
+    padding: 0px;
+    max-width: 0px;
+ }
+ body{
+    font-family: sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+ }
+ h1, h2, h3, h4, h5, h6{
+    font-family: serif;
+ }
+ img{
+    max-width: 100%;
+    height: auto;
+ }
+ a{
+    text-decoration: none;
+ }a:hover{
+    text-decoration: none;
+ }
+.container{
+   width: 1140px;
+   margin: opx auto;
+   height: 500px;
+   background: #000;
+} 
